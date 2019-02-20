@@ -11,3 +11,5 @@ $ npm i && cd client && npm i && cd ..
 ```
 $ npm start
 ```
+
+![demo](https://github.com/frahman5/foodreact/blob/master/demo.gif?raw=true)
